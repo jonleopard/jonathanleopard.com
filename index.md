@@ -2,10 +2,12 @@
 layout: default
 ---
 
-jonathanleopard.com has been migrated to jonleopard.com.
-You can still contact me via the social media links below :)
+Greetings,
 
-Cheers
+I've migrated this site over to jonleopard.com. Thanks for stopping by!
 
 
-## [Go visit jonleopard.com](https://jonleopard.com)
+[Go visit jonleopard.com](https://jonleopard.com)
+
+Cheers!
+
