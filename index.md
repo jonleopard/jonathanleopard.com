@@ -1,9 +1,11 @@
 ---
 layout: default
 ---
-#### I've moved!
-jonathanleopard.com is now jonleopard.com.
 
-twitter github
+jonathanleopard.com has been migrated to jonleopard.com.
+You can still contact me via the social media links below :)
 
-## Go visit jonleopard.com
+Cheers
+
+
+## [Go visit jonleopard.com](https://jonleopard.com)
